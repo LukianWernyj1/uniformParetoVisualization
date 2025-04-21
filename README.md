@@ -1,2 +1,4 @@
-# uniformParetoVisualization
-My first Shiny app that I've built to aide my DRP talk on how successive draws from a uniform distribution updates a Pareto posterior in this conjugate prior relationship.
+# UniformParetoVisualization
+This Shiny app visualizes the conjugate prior relationship between the Uniform(α, β) likelihood and the Pareto posterior distribution for β. It shows how successive draws from a Uniform distribution tighten the posterior via maximum observed values.
+
+
